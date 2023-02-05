@@ -1,1 +1,1 @@
-# online-bayesian-learning-demo
+# artificial-intelligence
